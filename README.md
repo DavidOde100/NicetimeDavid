@@ -8,5 +8,5 @@
 NicetimeDavid/NicetimeDavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[David_Odejimi_2025_Resume.pdf](https://github.com/NicetimeDavid/NicetimeDavid/files/10576507/David_Odejimi_2025_Resume.pdf)
-[David Odejimi_2025_Resume.pdf](https://github.com/NicetimeDavid/NicetimeDavid/files/10693939/David.Odejimi_2025_Resume.pdf)
+[David Odejimi_2025_Resume.pdf](https://github.com/NicetimeDavid/NicetimeDavid/files/10830399/David.Odejimi_2025_Resume.pdf)
+
