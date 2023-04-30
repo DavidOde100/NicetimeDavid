@@ -1,3 +1,4 @@
+[David Odejimi_2025_Resume.pdf](https://github.com/DavidOde100/NicetimeDavid/files/11360317/David.Odejimi_2025_Resume.pdf)
 - 👋 Hi, I’m @NicetimeDavid
 - 👀 I’m interested in Software Engineer / Data Analystics Internship
 - 🌱 I’m currently learning Computer Science at Lamar University
